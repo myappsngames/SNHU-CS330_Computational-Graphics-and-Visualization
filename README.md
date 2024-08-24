@@ -40,12 +40,15 @@ The design process I outlined can be applied to a variety of future projects, re
    * What new development strategies did you use while working on your 3D scene?
    * How did iteration factor into your development?
    * How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-
-This is a paragraph.
+     
+Iteration in my 3D Scene Development:
+* Completing the final project through milestones was extremely helpful.
+* Each milestone added gradual improvements and refinements by breaking down the final project into smaller, manageable iterations.
+* My approach to developing code has evolved by understanding the importance of developing iteratively firsthand.
+* By completing five milestones that pertained to a single final project, I learned the significance of prototyping, modularity, reusability.
 
 ### 3. How can computer science help me in reaching my goals?
    * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-   * How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
-This is a paragraph.
+Computational graphics and visualizations are foundational to software engineering, virtual reality (VR), and extended reality (XR). They provide the visual framework that brings these technologies to life. Computational graphics techniques are used to create visually appealing and intuitive user interfaces, enhancing user experience. 3D graphics and animation are essential for creating immersive and engaging games. VR relies heavily on computational graphics to create realistic and immersive virtual environments.
 
