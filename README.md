@@ -15,6 +15,18 @@ Working on this project has significantly enhanced my design skills in several a
   * Design Patterns: I've explored design patterns like Model-View-Controller (MVC) to organize and structure my code. This has helped me create more modular and reusable code.
   * Problem-Solving: I've developed stronger problem-solving skills by breaking down complex problems into smaller, more manageable subproblems. This has enabled me to approach challenges with a systematic and logical mindset.
   * Iterative Design: I've learned the importance of iterative design, which involves continuously refining and improving my designs based on feedback and testing. This has helped me create higher-quality software.
+
+The design process I followed for my project work:
+  * Define The Problem
+  * Conduct Research
+  * Generate Ideas
+  * Evaluate and Select
+  * Create Prototypes
+  * Refine and Iterate
+  * Implement and Test
+  * Launch and Evaluate
+
+
      
 ### 2. How do I approach developing programs?
    * What new development strategies did you use while working on your 3D scene?
