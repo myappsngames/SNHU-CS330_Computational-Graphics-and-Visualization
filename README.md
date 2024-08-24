@@ -5,7 +5,7 @@ SNHU CS330 Final Project: Create a 3D version of a 2D image
 
 #### 1. How do I approach designing software?
    * What new design skills has your work on the project helped you to craft?
-      blah balh
+      * blah balh
    * What design process did you follow for your project work?
    * How could tactics from your design approach be applied in future work?
 #### 2. How do I approach developing programs?
