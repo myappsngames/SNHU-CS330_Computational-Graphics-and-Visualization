@@ -26,7 +26,7 @@ The design process I followed for my project work involved several key steps:
   * Implement and Test
   * Launch and Evaluate
 
-The design process I outlined can be applied to a variety of future projects, regardless of their specific nature.
+The design process I outlined can be applied to a variety of future projects, regardless of their specific nature. Here are some ways in which the tactics can be adapted and used:
   * Problem Definition: Clearly define the problem before starting any project. This ensures that the solution is focused and addresses the correct issue.
   * Research: Conduct thorough research to understand the context, existing solutions, and user needs. This helps avoid reinventing the wheel and ensures the solution is informed and relevant.
   * Ideation: Encourage creativity and explore multiple possibilities. Brainstorming techniques like mind mapping and design thinking can help generate innovative ideas.
