@@ -7,7 +7,9 @@ SNHU CS330 Final Project: Create a 3D version of a 2D image
    * What new design skills has your work on the project helped you to craft?
    * What design process did you follow for your project work?
    * How could tactics from your design approach be applied in future work?
-  #### hellow
+
+This is a paragraph.
+     
 ### 2. How do I approach developing programs?
    * What new development strategies did you use while working on your 3D scene?
    * How did iteration factor into your development?
