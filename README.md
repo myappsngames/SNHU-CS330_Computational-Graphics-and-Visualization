@@ -1,5 +1,5 @@
 # SNHU CS330: Computational Graphics and Visualization
-SNHU CS330 Final Project: Create a 3D version of a 2D image
+Final Project: Create a 3D scene of a 2D image
 
 # Reflection
 
